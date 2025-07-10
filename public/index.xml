@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Aman&#39;s Cove</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Aman&#39;s Cove</description>
+    <generator>Hugo -- 0.148.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Jul 2025 16:22:37 -0700</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>First</title>
+      <link>//localhost:1313/posts/first/</link>
+      <pubDate>Thu, 10 Jul 2025 16:22:37 -0700</pubDate>
+      <guid>//localhost:1313/posts/first/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>//localhost:1313/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/readme/</guid>
+      <description>&lt;h3 id=&#34;adding-a-new-post&#34;&gt;Adding a new post&lt;/h3&gt;
+&lt;p&gt;&lt;code&gt;hugo new posts/first.md&lt;/code&gt;   from the root of directory&lt;/p&gt;
+&lt;p&gt;any changes on the theme layout can be overwritten by folliowing the same structure inside the layout folder and using the same file name and simply having a different file with the desired effects
+to makae sure your changes are actually preserved, copy that in your folder in your working directory since the themes fodler can be updated later by the maintainer.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
