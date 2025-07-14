@@ -3,3 +3,46 @@ languageCode: en-us
 title: Aman's Cove
 theme: PaperMod
 
+params:
+
+  homeInfoParams:
+    Title: 'Hello Stranger'
+    Content: 'Welcome, this is the randmmest spot on the internet'
+  
+  socialIcons:
+    - name: linkedin
+      url: ""
+    - name: discord
+      url: ""
+    - name: github
+      url: ""
+
+  cover: 
+    linkFullImages: true
+  
+  defaultTheme: light # dark, auto
+  ShowBreadCrumbs: true
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  disableScrollToTop: false
+
+
+menu:
+  main:
+    - identifier: blog
+      name: Blog
+      url: /blog/
+      weight: 10 
+    - identifier: reading
+      name: Reading List
+      url: /reading-list/
+      weight: 20 
+    - identifier: projects
+      name: Projects
+      url: /projects/
+      weight: 30   
+    - identifier: resume
+      name: Resume
+      url: /resume/
+      weight: 40 
